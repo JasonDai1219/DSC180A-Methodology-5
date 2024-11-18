@@ -19,7 +19,7 @@ Our group decides to apply causal-discovery/inference algorithms to real world d
 ---
 
 # **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**  
-We mainly compareed and contrasted advantages and disadvantages of causal-discovery/inference algorithms in this quarter, we will try to use these algorithms and potentially improve these algorithms in next quarter. Also the dataset we use in this Quarter is simulated by ourselves, so we naturally have the groundtrth graoh to use to compare various causal discovery/inference algorithms' performances. Nonetheless, we will not have that advantage next quarter, so we need to use other evaluation methods on those algorithm's performances.
+We mainly compared and contrasted advantages and disadvantages of causal-discovery/inference algorithms in this quarter, we will try to use these algorithms and potentially improve these algorithms in next quarter. Also the dataset we use in this Quarter is simulated by ourselves, so we naturally have the groundtrth graoh to use to compare various causal discovery/inference algorithms' performances. Nonetheless, we will not have that advantage next quarter, so we need to use other evaluation methods on those algorithm's performances.
 
 ---
 
